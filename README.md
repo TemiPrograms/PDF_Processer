@@ -13,7 +13,7 @@ Retrieval-Augmented Generation (RAG) with FAISS and Google Gemini.
 ## Setup
 
 1. Clone the repository:
-git clone https://github.com/TemiPrograms/pdf-processor
+git clone [https://github.com/TemiPrograms/pdf-processor](https://github.com/TemiPrograms/PDF_Processer)
 cd pdf-processor
 
 2. Install dependencies:
