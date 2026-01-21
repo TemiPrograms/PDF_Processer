@@ -1,7 +1,6 @@
 # 📄 PDF Processor – Gemini RAG Chatbot
 
-An AI-powered application that allows users to upload PDF documents and ask questions using
-Retrieval-Augmented Generation (RAG) with FAISS and Google Gemini.
+An AI-powered application that allows users to inquire information from upload PDF documents.
 
 ## Features
 - PDF text extraction with OCR fallback
